@@ -1,0 +1,2 @@
+# BigBreadboard
+Project files for a x2 scaled breadboard to make it easier to learn electronics. Includes larger versions of the Mini and half breadboards.  These are just the 3D model files, and I intend to update these to fit [x9 row header pins](https://www.aliexpress.com/item/32964271759.html) to make these functional.  To prrint these prototype files, I'd recommend printing upside down, and you may need to select the 'print thin walls' option. 
